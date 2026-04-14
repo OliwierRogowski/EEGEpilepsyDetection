@@ -1,0 +1,16 @@
+*.o
+*.obj
+*.so
+*.out
+build/
+bin/
+obj/
+*.dll
+.vs/
+appsettings.Development.json
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+.DS_Store
+Thumbs.db
